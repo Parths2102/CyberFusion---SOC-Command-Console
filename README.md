@@ -1,6 +1,6 @@
 🛡️ CyberFusion SOC Dashboard
-Overview
 
+Overview
 CyberFusion is a full-stack Security Operations Center (SOC) simulation that demonstrates real-time cybersecurity monitoring, threat detection, incident response, audit logging, and AI-powered incident analysis. Built with FastAPI, React, PostgreSQL, and Groq LLM, it provides a realistic SOC workflow for learning and demonstration purposes.
 
 ✨ Features
